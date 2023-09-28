@@ -9,6 +9,6 @@
     "types.ts"
   ],
   "devDependencies": {
-    "next": "^12.1.5"
+    "next": "^12.1.0"
   }
 }
